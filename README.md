@@ -11,6 +11,7 @@ I'm a passionate Full-Stack Developer with extensive experience in both backend 
   - **ORMs & Tools:**
     [![Entity Framework](https://img.shields.io/badge/Entity%20Framework-5C2D91?logo=dot-net&logoColor=white)](https://docs.microsoft.com/en-us/ef/)
     [![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)](https://www.prisma.io/)
+    [![Mongoose](https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white)](https://mongoosejs.com/)
   - **Databases:**
     [![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
     [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
