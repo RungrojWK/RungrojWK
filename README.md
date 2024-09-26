@@ -8,6 +8,7 @@ I'm a passionate Full-Stack Developer with extensive experience in both backend 
   - **Languages & Frameworks:**
     [![C#.Net Core](https://img.shields.io/badge/-.NET%20Core-5C2D91?logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
     [![Node.js](https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white)](https://nodejs.org/)
+    [![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)](https://nestjs.com/)
   - **ORMs & Tools:**
     [![Entity Framework](https://img.shields.io/badge/Entity%20Framework-5C2D91?logo=.net&logoColor=white)](https://docs.microsoft.com/en-us/ef/)
     [![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)](https://www.prisma.io/)
