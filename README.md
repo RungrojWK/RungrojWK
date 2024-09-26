@@ -9,7 +9,7 @@ I'm a passionate Full-Stack Developer with extensive experience in both backend 
     [![C#.Net Core](https://img.shields.io/badge/-.NET%20Core-5C2D91?logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
     [![Node.js](https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white)](https://nodejs.org/)
   - **ORMs & Tools:**
-    [![Entity Framework](https://img.shields.io/badge/Entity%20Framework-5C2D91?logo=dot-net&logoColor=white)](https://docs.microsoft.com/en-us/ef/)
+    [![Entity Framework](https://img.shields.io/badge/Entity%20Framework-5C2D91?logo=.net&logoColor=white)](https://docs.microsoft.com/en-us/ef/)
     [![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)](https://www.prisma.io/)
     [![Mongoose](https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white)](https://mongoosejs.com/)
   - **Databases:**
@@ -23,6 +23,7 @@ I'm a passionate Full-Stack Developer with extensive experience in both backend 
 
 - **Authentication & Security:**
   [![Keycloak](https://img.shields.io/badge/Keycloak-6A1B2A?logo=keycloak&logoColor=white)](https://www.keycloak.org/)
+  [![Google Authentication](https://img.shields.io/badge/Google%20Authentication-D14836?logo=google&logoColor=white)](https://cloud.google.com/identity-platform)
 
 - **Development Platforms:**
   [![K2 Platform](https://img.shields.io/badge/K2%20Platform-0072C6?logo=k2&logoColor=white)](https://help.nintex.com/Content/Home.htm)
@@ -33,6 +34,7 @@ I'm a passionate Full-Stack Developer with extensive experience in both backend 
     [![Ajax](https://img.shields.io/badge/Ajax-007ACC?logo=ajax&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)
     [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
     [![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+    [![EJS](https://img.shields.io/badge/EJS-8BC34A?logo=ejs&logoColor=white)](https://ejs.co/)
   - **Frameworks:**
     [![.NET MVC](https://img.shields.io/badge/.NET%20MVC-5C2D91?logo=.net&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet/mvc)
 
