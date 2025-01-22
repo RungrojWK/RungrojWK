@@ -63,3 +63,9 @@ I'm currently working with **NestJS + Prisma + PostgreSQL** to build scalable an
 I’m always looking to expand my skills and contribute to new and interesting projects. If you’re working on something exciting and need a collaborator, or if you’re looking for help with your project, feel free to reach out. I’m open to contributing to projects for free and exploring new challenges.
 
 Feel free to explore my repositories and connect with me!
+
+<p align='left'>
+    <a href="https://www.linkedin.com/in/rungroj-wongkaeo-0b341225b/">
+    <img width="30px" alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+    </a> 
+</p>
